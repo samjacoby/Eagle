@@ -1,0 +1,58 @@
+Partlist exported from /Users/sjacoby/Development/eagle/TapClip32u4/tapclip.sch at 11/1/12 3:16 PM
+
+Assembly variant: 
+
+Part  Value             Device            Package         Description                         
+C1    .1uF              CAP0603-CAP       0603-CAP        Capacitor                           
+C2    .1uF              CAP0603-CAP       0603-CAP        Capacitor                           
+C3    1uF               CAP0603-CAP       0603-CAP        Capacitor                           
+C4    .1uF              CAP0603-CAP       0603-CAP        Capacitor                           
+C5    .1uF              CAP0603-CAP       0603-CAP        Capacitor                           
+C6    22pF              CAP0402-CAP       0402-CAP        Capacitor                           
+C7    22pF              CAP0402-CAP       0402-CAP        Capacitor                           
+C8    1uF               CAP0603-CAP       0603-CAP        Capacitor                           
+C9    .1uF              CAP0603-CAP       0603-CAP        Capacitor                           
+C10   .1uF              CAP0603-CAP       0603-CAP        Capacitor                           
+C11   .1uF              CAP0603-CAP       0603-CAP        Capacitor                           
+C12   .1uF              CAP0603-CAP       0603-CAP        Capacitor                           
+F1    500mA             PTCSMD            PTC-1206        Resettable Fuse PTC                 
+ICSP  ICSP              PINHD-2X3         2X03            PIN HEADER                          
+JP1                     PINHD-1X6CB       1X06-CLEANBIG   PIN HEADER                          
+JP2                     PINHD-1X2         1X02            PIN HEADER                          
+LED1                    LED0603           LED-0603        LEDs                                
+LED3  GREEN             LED0603           LED-0603        LEDs                                
+LED4  GREEN             LED0603           LED-0603        LEDs                                
+LED5  GREEN             LED0603           LED-0603        LEDs                                
+LED6  GREEN             LED0603           LED-0603        LEDs                                
+LED7  GREEN             LED0603           LED-0603        LEDs                                
+LED8  GREEN             LED0603           LED-0603        LEDs                                
+R1    22                RESISTOR0402-RES  0402-RES        Resistor                            
+R2    22                RESISTOR0402-RES  0402-RES        Resistor                            
+R3    300               RESISTOR0603-RES  0603-RES        Resistor                            
+R4                      RESISTOR0603-RES  0603-RES        Resistor                            
+R5                      RESISTOR0603-RES  0603-RES        Resistor                            
+R6                      RESISTOR0603-RES  0603-RES        Resistor                            
+R8    10k               RESISTOR0603-RES  0603-RES        Resistor                            
+R20   330               RESISTOR0402-RES  0402-RES        Resistor                            
+R21   330               RESISTOR0402-RES  0402-RES        Resistor                            
+R22   330               RESISTOR0402-RES  0402-RES        Resistor                            
+RESET TS42              TS42              TS42            TS42                                
+S1    ALLIGATOR_CLIP    ALLIGATOR_CLIP    ALLIGATOR_CLIP                                      
+S2    ALLIGATOR_CLIP    ALLIGATOR_CLIP    ALLIGATOR_CLIP                                      
+S3    ALLIGATOR_CLIP    ALLIGATOR_CLIP    ALLIGATOR_CLIP                                      
+S4    ALLIGATOR_CLIP    ALLIGATOR_CLIP    ALLIGATOR_CLIP                                      
+S5    ALLIGATOR_CLIP    ALLIGATOR_CLIP    ALLIGATOR_CLIP                                      
+S6    ALLIGATOR_CLIP    ALLIGATOR_CLIP    ALLIGATOR_CLIP                                      
+S7    ALLIGATOR_CLIP    ALLIGATOR_CLIP    ALLIGATOR_CLIP                                      
+S8    ALLIGATOR_CLIP    ALLIGATOR_CLIP    ALLIGATOR_CLIP                                      
+SJ1   SOLDERJUMPERTRACE SOLDERJUMPERTRACE SJ_2S-TRACE     Solder Jumper                       
+SJ2   SOLDERJUMPERTRACE SOLDERJUMPERTRACE SJ_2S-TRACE     Solder Jumper                       
+SJ3   SOLDERJUMPERNO    SOLDERJUMPERNO    SJ_2S-NO        Solder Jumper                       
+SJ4   SOLDERJUMPERNO    SOLDERJUMPERNO    SJ_2S-NO        Solder Jumper                       
+U$1   ATMEGA32U4-AU     ATMEGA32U4-AU     TQFP44          http://www.ladyada.net/library/eagle
+U$2   LTC1391-MUX       LTC1391-MUX       SOIC16N                                             
+U$19  LTC1391-MUX       LTC1391-MUX       SOIC16N                                             
+U$20  PGA112            PGA112            MICROSOIC10                                         
+U$21  ADG704-MUX        ADG704-MUX        MICROSOIC10                                         
+X1    USBSMD            USBSMD            USB-MINIB       USB Connectors                      
+Y1    16MHz             CRYSTAL5X3        CRYSTAL-SMD-5X3 Crystals                            
