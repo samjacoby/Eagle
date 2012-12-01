@@ -1,0 +1,8 @@
+Restable fuses. 
+Don't try to do two boards in one. It'll be a disaster (or use little relays). 
+Move USB closer to chip. 
+Op-amps need to be immediately after the clips to buffer the input. There is enough space on the baord for this.
+Multiplexer must be high-impedance input and very low leakage current
+low-impedance amplifier. 
+Should this just be a normal, loading-mode board? What, in fact, am I doing then? Is it a series of templates? Is it any better than the regular TapClip board? Should that have an enclosure? A nice wooden thing? A 32U4 version of that board? That would be fine, probably. 
+
